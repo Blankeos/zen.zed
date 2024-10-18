@@ -6,7 +6,7 @@
 
 <div align="middle">
 <img src="https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat">
-<img src="https://img.shields.io/badge/version-0.0.2-brightgreen.svg?style=flat">
+<img src="https://img.shields.io/badge/version-0.0.3-brightgreen.svg?style=flat">
 </div>
 
 ![stuff](.github/assets/image.png)
