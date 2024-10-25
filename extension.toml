@@ -1,6 +1,6 @@
 id = "blankeos-zen"
 name = "Blankeos Zen"
-version = "0.0.3"
+version = "0.0.4"
 schema_version = 1
 authors = ["Blankeos <carloantonioct@gmail.com>"]
 description = "A minimal, dark, and frameless theme for VS Code. Based on poimandres."
