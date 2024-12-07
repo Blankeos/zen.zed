@@ -58,8 +58,8 @@
         "editor.subheader.background": null,
         "editor.active_line.background": "#717cb425",
         "editor.highlighted_line.background": null,
-        "editor.line_number": "#767c9d50",
-        "editor.active_line_number": "#a6accd",
+        "editor.line_number": "#767c9dff",
+        "editor.active_line_number": "#60a5fa",
         "editor.invisible": null,
         "editor.wrap_guide": "#00000030",
         "editor.active_wrap_guide": "#00000030",
@@ -136,10 +136,15 @@
         "warning": "#fffac2",
         "warning.background": "#1b1e28",
         "warning.border": "#ffffff10",
-        "players": [],
+        "players": [
+          {
+            "cursor": "#bae6fd",
+            "selection": "#60a5fa66"
+          }
+        ],
         "syntax": {
           "attribute": {
-            "color": "#91B4D5",
+            "color": "#91b4d5",
             "font_style": "italic",
             "font_weight": null
           },
@@ -179,7 +184,7 @@
             "font_weight": 700
           },
           "keyword": {
-            "color": "#a6accd",
+            "color": "#60a5fa",
             "font_style": null,
             "font_weight": null
           },
@@ -273,13 +278,28 @@
             "font_style": null,
             "font_weight": null
           },
+          "function": {
+            "color": "#add7ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "namespace": {
+            "color": "#60a5fa",
+            "font_style": null,
+            "font_weight": null
+          },
+          "module": {
+            "color": "#60a5fa",
+            "font_style": null,
+            "font_weight": null
+          },
           "type": {
             "color": "#a6accdC0",
             "font_style": null,
             "font_weight": null
           },
           "variable": {
-            "color": "#ADD7FF",
+            "color": "#e4f0fb",
             "font_style": "italic",
             "font_weight": null
           },
@@ -345,10 +365,10 @@
         "editor.background": "#1b1e2800",
         "editor.gutter.background": "#1b1e2800",
         "editor.subheader.background": null,
-        "editor.active_line.background": "#3033400a",
+        "editor.active_line.background": "#93c5fd1d",
         "editor.highlighted_line.background": null,
-        "editor.line_number": "#767c9d7f",
-        "editor.active_line_number": "#a6accd",
+        "editor.line_number": "#767c9dff",
+        "editor.active_line_number": "#60a5fa",
         "editor.invisible": null,
         "editor.wrap_guide": "#00000030",
         "editor.active_wrap_guide": "#00000030",
@@ -425,10 +445,15 @@
         "warning": "#fffac2",
         "warning.background": "#1b1e28",
         "warning.border": "#ffffff10",
-        "players": [],
+        "players": [
+          {
+            "cursor": "#bae6fd",
+            "selection": "#60a5fa66"
+          }
+        ],
         "syntax": {
           "attribute": {
-            "color": "#91B4D5",
+            "color": "#91b4d5",
             "font_style": "italic",
             "font_weight": null
           },
@@ -468,7 +493,7 @@
             "font_weight": 700
           },
           "keyword": {
-            "color": "#a6accd",
+            "color": "#60a5fa",
             "font_style": null,
             "font_weight": null
           },
@@ -562,13 +587,28 @@
             "font_style": null,
             "font_weight": null
           },
+          "function": {
+            "color": "#add7ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "namespace": {
+            "color": "#60a5fa",
+            "font_style": null,
+            "font_weight": null
+          },
+          "module": {
+            "color": "#60a5fa",
+            "font_style": null,
+            "font_weight": null
+          },
           "type": {
             "color": "#a6accdC0",
             "font_style": null,
             "font_weight": null
           },
           "variable": {
-            "color": "#ADD7FF",
+            "color": "#e4f0fb",
             "font_style": "italic",
             "font_weight": null
           },
