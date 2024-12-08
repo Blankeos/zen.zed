@@ -1,7 +1,7 @@
 <p align="middle">
   <img src="https://raw.githubusercontent.com/Blankeos/zen/main/assets/icon.png" width="150"  />
   <h3 align="middle">Blankeos Zen.zed</h3>
-  <p align="middle">A minimal, dark, and frameless theme for VS Code. Based on poimandres.</p>
+  <p align="middle">A minimal, dark, and frameless theme for Zed. Based on poimandres.</p>
 </p>
 
 <div align="middle">
@@ -26,8 +26,8 @@ This theme contains:
   {
     // Theme Overrides
     "experimental.theme_overrides": {
-      "background.appearance": "transparent"
-    }
+      "background.appearance": "transparent",
+    },
   }
   ```
 
