@@ -350,7 +350,7 @@
         "title_bar.background": "#121212d0",
         "toolbar.background": "#00000000",
         "tab_bar.background": "#1f222800",
-        "tab.inactive_background": "#1f222800",
+        "tab.inactive_background": "#1f2228",
         "tab.active_background": "#121212",
         "search.match_background": "#dbeafe3d",
         "panel.background": "#12121200",
