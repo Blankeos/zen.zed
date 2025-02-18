@@ -1,7 +1,7 @@
 id = "blankeos-zen"
 name = "Blankeos Zen"
-version = "0.0.4"
+version = "0.0.5"
 schema_version = 1
 authors = ["Blankeos <carloantonioct@gmail.com>"]
-description = "A minimal, dark, and frameless theme for VS Code. Based on poimandres."
+description = "A bluer, minimal, dark, and frameless theme for Zed. Based on poimandres."
 repository = "https://github.com/blankeos/zen.zed"
