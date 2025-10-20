@@ -1,6 +1,6 @@
 id = "blankeos-zen"
 name = "Blankeos Zen"
-version = "0.0.5"
+version = "0.0.6"
 schema_version = 1
 authors = ["Blankeos <carloantonioct@gmail.com>"]
 description = "A bluer, minimal, dark, and frameless theme for Zed. Based on poimandres."
