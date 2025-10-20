@@ -1,0 +1,34 @@
+name: "Blankeos Zen Dark (Blurred)"
+appearance: "dark"
+background.appearance: "blurred"
+colors:
+  primary: "#60a5fa"
+  base: "#121212" # variant-specific bg
+
+  # Variant-specific
+  # - Used for elevated_surface.background, terminal.ansi.black, hidden.background
+  # - hint.background, ignored.background, modified.background, renamed.background, success.background,
+  # - unreachable.background, warning.background
+  background_static: "#121212"
+  background: "#121212d0" #1b1e28 reg or #1b1e28d0 regblur
+
+  element.background: "#30334000" # #303340 reg or # #303340 regblur | #303340 for darkreg
+  tab_bar.background: "#1f222800" # #282b34 reg or #282b3400 regblur | #1f2228 for darkreg
+  tab.active_background: "#121212" #1b1e28 reg or #1b1e28 ??maybe or 121212 regblur | #121212 for darkreg
+
+  # also used for editor.background, editor.gutter.background,
+  scrollbar.track_background: "#12121200" #1b1e28 reg or #1b1e2800 regblur - also used for editor.background
+
+  editor.active_line.background: "#b4b4b61a" #717cb425 reg or #93c5fd1d regblur | #b4b4b61a for darkreg
+
+  # All transparent actually
+  terminal.background: "#12121200" # and darkreg | #1b1e2800 reg & regblur
+
+  ignored: "#606586" # and regblur | #767c9d70 reg & darkreg
+
+  info.background: "#43525f" # and darkreg |  #48596b reg & regblur
+
+  # Unified aliases for shared colors
+  editor.background: "#12121200" # replaces scrollbar.track_background, terminal.background
+
+  tab.background: "#1f222800" # replaces tab_bar.background

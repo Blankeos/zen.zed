@@ -1,0 +1,39 @@
+import Color from "color";
+import { base } from "./_base";
+
+const base_bg = "#121212";
+
+const config = {
+  filename: "blankeos-zen-dark-blurred",
+  name: "Blankeos Zen Dark (Blurred)",
+  appearance: "dark",
+  "background.appearance": "blurred",
+  colors: {
+    primary: base.primary,
+    background_static: base_bg,
+    background: `${base_bg}d0`,
+    overlay_background: Color(base_bg).darken(0.4).fade(0.2).hexa(),
+    overlay_background_hover: Color(base_bg).darken(0.1).fade(0.1).hexa(),
+
+    "element.background": "#30334000",
+
+    "tab_bar.background": Color(base_bg).lighten(0.5).fade(1).hexa(),
+    "tab.active_background": base_bg,
+
+    "scrollbar.track_background": `${base_bg}00`,
+
+    "editor.active_line.background": "#b4b4b61a",
+
+    "terminal.background": `${base_bg}00`,
+
+    ignored: "#606586",
+
+    "info.background": "#43525f",
+
+    "editor.background": "#12121200",
+
+    "tab.background": "#1f222800",
+  },
+};
+
+export default config;
